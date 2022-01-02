@@ -1,0 +1,53 @@
+host	away	host_goals	away_goals	winner
+Ethiopia	Cape Verde	2	2	tie
+Cameroon	Burkina Faso	0	1	Burkina Faso
+Ethiopia	Cameroon	0	0	tie
+Cape Verde	Burkina Faso	0	3	Burkina Faso
+Ethiopia	Burkina Faso	1	2	Burkina Faso
+Cape Verde	Cameroon	2	0	Cape Verde
+Malawi	Senegal	2	2	Senegal
+Zimbabwe	Guinea	0	2	Guinea
+Malawi	Zimbabwe	1	2	Zimbabwe
+Senegal	Guinea	0	0	tie
+Malawi	Guinea	0	1	Guinea
+Senegal	Zimbabwe	2	0	Senegal
+Morocco	Ghana	0	1	Ghana
+Gabon	Comoros	1	1	tie
+Morocco	Gabon	1	2	Gabon
+Ghana	Comoros	1	0	Ghana
+Morocco	Comoros	2	2	tie
+Ghana	Gabon	1	2	Gabon
+Nigeria	Egypt	0	0	tie
+Sudan	Guinea-Bissau	1	2	Guinea-Bissau
+Nigeria	Sudan	2	0	Nigeria
+Egypt	Guinea-Bissau	2	2	tie
+Nigeria	Guinea-Bissau	4	1	Nigeria
+Egypt	Sudan	4	0	Egypt
+Algeria	Sierra Leone	1	0	Algeria
+Equatorial Guinea	Ivory Coast	0	2	Ivory Coast
+Algeria	Equatorial Guinea	2	2	tie
+Sierra Leone	Ivory Coast	0	0	tie
+Algeria	Ivory Coast	2	2	tie
+Sierra Leone	Equatorial Guinea	2	2	Sierra Leone
+Gambia	Mauritania	0	1	Mauritania
+Tunisia	Mali	1	0	Tunisia
+Gambia	Tunisia	2	1	Gambia
+Mauritania	Mali	0	1	Mali
+Gambia	Mali	0	2	Mali
+Mauritania	Tunisia	0	2	Tunisia
+Cape Verde	Ghana	0	2	Ghana
+Nigeria	Mauritania	2	2	Nigeria
+Burkina Faso	Sierra Leone	1	2	Sierra Leone
+Senegal	Tunisia	2	0	Senegal
+Guinea	Guinea-Bissau	0	0	Guinea-Bissau
+Gabon	Zimbabwe	0	2	Zimbabwe
+Ivory Coast	Egypt	2	1	Ivory Coast
+Mali	Algeria	1	0	Mali
+Ghana	Nigeria	0	0	Nigeria
+Senegal	Sierra Leone	2	1	Senegal
+Ivory Coast	Zimbabwe	0	0	Ivory Coast
+Guinea-Bissau	Mali	0	4	Mali
+Nigeria	Mali	1	1	Nigeria
+Senegal	Ivory Coast	1	1	Senegal
+Mali	Ivory Coast	0	2	Ivory Coast
+Nigeria	Senegal	0	1	Senegal
